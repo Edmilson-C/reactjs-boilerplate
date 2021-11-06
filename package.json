@@ -2,6 +2,9 @@
   "name": "reactjs-boilerplate",
   "version": "0.1.0",
   "private": true,
+  "description": "ReactJS Boilerplate",
+  "repository": "https://github.com/Edmilson-C/reactjs-boilerplate.git",
+  "author": "Edmilson-C <edmilson.conceicao09@gmail.com>",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",
@@ -34,5 +37,15 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.26.1",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "node-sass": "^6.0.1",
+    "prettier": "^2.4.1"
   }
 }
